@@ -1,0 +1,20 @@
+{
+  "name": "Akademia Edukacji Alternatywnej Mądry Start",
+  "short_name": "Mądry Start",
+  "icons": [
+    {
+      "src": "assets/images/icons/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icons/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a"
+}
